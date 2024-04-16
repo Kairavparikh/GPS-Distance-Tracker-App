@@ -1,0 +1,1 @@
+This Mobile Application starts with asking the user for permission on their location usage. If allowed the app can track the live distance that the user has tracked while measuring how long the user stayed at any address. The app will also display the live longitude, latitude, and address of the user.
